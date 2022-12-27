@@ -1,0 +1,28 @@
+*{
+
+    margin:0;
+    padding: 0;
+
+}
+div{
+
+    text-align: center;
+
+}
+
+.allcards{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+   
+
+
+}
+
+.card{
+
+    text-align: center;
+    align-items: center;
+}
+

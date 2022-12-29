@@ -14,6 +14,7 @@ Single-Page App using React framework
 ### Links and Resources
 
 - [Repository](https://github.com/Ibrahimnalmanaseer/401-images-app)
+- [Pull request](https://github.com/Ibrahimnalmanaseer/401-images-app/pull/2)
 
 
 
